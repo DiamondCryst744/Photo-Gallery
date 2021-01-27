@@ -1,0 +1,130 @@
+#Header {
+	background-color: gray;
+	font-family: Calibri;
+	width: auto;
+	height: 90px;
+}
+
+body {
+	text-align: center;
+	font-family: Calibri;
+	background-color: #66ff66;
+}
+
+h1 {
+	padding-top: -15px;
+	color:white;
+	margin-left: 40px;
+	float: left;
+	font-weight: 500;
+	font-size: 33px;
+}
+
+#MenuBar {
+	height: 45px;
+	width: 45px;
+	border-radius: 3px;
+	float: right;
+	border-color: darkgray;
+	border-style: solid;
+	border-width: 2px;
+	margin-top: 20px;
+	margin-right: 33px;
+}
+
+.Image-Section {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	float: left;
+	margin-right: 5px;
+}
+
+#Nature {
+	width: 1000px;
+	height: 500px;
+	border-style: solid;
+	border-color: forestgreen;
+	border-width: 5px;
+	margin-top: 15px;
+}
+
+#one {
+	width: 400px;
+	height: 250px;
+	margin-left: 70px;
+}
+
+#two {
+	width: 400px;
+	height: 250px;
+}
+
+#three {
+	width: 400px;
+	height: 250px;
+}
+
+#four {
+	width: 400px;
+	height: 250px;
+	margin-left: 70px;
+}
+
+#five {
+	width: 400px;
+	height: 250px;
+}
+
+#six {
+	width: 400px;
+	height: 250px;
+}
+
+#seven {
+	width: 400px;
+	height: 250px;
+	margin-left: 70px;
+}
+
+#eight {
+	width: 400px;
+	height: 250px;
+	margin-bottom: 50px;
+}
+
+#nine {
+	width: 400px;
+	height: 250px;
+	margin-bottom: 50px;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: 400;
+	margin-top:30px;
+	text-shadow: 2px 2px #00cc66;
+}
+
+h3 {
+	font-size: 40px;
+	font-weight: 400;
+	text-shadow: 2px 2px #00cc66;
+	padding-bottom:15px;
+}
+
+#MyCarousel {
+	text-align: center;
+}
+
+#MyCarousel img {
+	width: 1000px;
+	height: 450px;
+}
+
+
+
+.item img {
+	width:1200px;
+	height:650px;
+}
+
